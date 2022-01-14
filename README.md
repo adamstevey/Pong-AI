@@ -1,3 +1,0 @@
-<video width="320" height="240" controls>
-  <source src="PONG-AIvid" type="video/mp4">
-</video>
